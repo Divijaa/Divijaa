@@ -1,5 +1,5 @@
 - 👋 Heyyaaa,I'm DIVIJA
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Node.js
 
 ⚡ Technologies
 - 👀 Talk to me about:
